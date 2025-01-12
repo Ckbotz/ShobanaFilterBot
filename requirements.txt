@@ -30,7 +30,6 @@ psutil>=5.9.0
 pycryptodome
 pygments
 pyromod
-pyrotgfork
 PyPDF2
 pymongo>=4.0
 python-decouple
