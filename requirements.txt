@@ -29,7 +29,6 @@ Pillow>=9.4.0
 psutil>=5.9.0
 pycryptodome
 pygments
-pyrogram>=2.0.30
 pyromod
 pyrotgfork
 PyPDF2
@@ -57,4 +56,4 @@ youtube-search-python>=1.4.6
 ytthumb
 git+https://github.com/agronholm/anyio
 git+https://github.com/Joelkb/cinemagoer
-git+https://github.com/KurimuzonAkuma/pyrogram
+pyrofork==2.3.45
